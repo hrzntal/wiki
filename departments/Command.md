@@ -2,7 +2,7 @@
 title: Command
 description: 
 published: 1
-date: 2021-06-27T21:09:12.131Z
+date: 2021-06-27T21:15:37.405Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-27T18:34:14.944Z
@@ -42,7 +42,7 @@ The Head of Personnel can either be a Godsend or worse than a banana-flinging cl
 
 <br>
 
-- **&Required knowledge:** How to use the Identification Console. A rough idea of how access is distributed throughout the station. What Cargo, Kitchen, Hydroponics and the Janitor should be doing.
+- **Required knowledge:** How to use the Identification Console. A rough idea of how access is distributed throughout the station. What Cargo, Kitchen, Hydroponics and the Janitor should be doing.
 - **Round-start to-do list:** Stay at your desk for at least the first 10 minutes to manage the shift-start rush.
 - **Main tasks:** Manage IDs.
 - **Main problems:** Your department (the civil department) doesn't ever acknowledge you as their boss. It's your duty to make that a thing of the past!
@@ -83,6 +83,33 @@ Equal rank with all other non-captain Heads of Staff. Oversees the maintenance o
 - **Round-start to-do list:** Have your team start the supermatter correctly and have power flowing to the station. Make sure the atmospheric system is set up correctly.
 - **Main tasks:** Listening the radio for people yelling about station damage and delegating your engineers there with appropriate tools and materials.
 - **Main problems:** The station is bound to have explosions or at least minor holes in it during the shift. Learn how to tackle the exploded telecommunications -situation and you'll be irreplaceable in more than one shift, guaranteed.
+
+## Chief Medical Officer
+![generic_cmo.webp](/jobs/generic_cmo.webp =100x){.align-left .noblur}
+
+Equal rank with all other non-captain Heads of Staff. If a Head of Staff is acting medically unstable, it is the CMO's duty to disable and treat them till they are once again fit for duty (which could be never). Oversees station-wide medical issues with authority over the Virologist, Chemists and Medical Doctors.
+
+<br>
+<br>
+
+- **Required knowledge:** How to cure viruses and create vaccines. Formulas for the most common medicines. How to prepare and administer clean SEs.
+- **Round-start to-do list:** Make an announcement to the crew about maxing out their suit sensors so you'll be able to help them when they get in trouble. Check that the cryogenic tubes get set up, possibly with a more efficient mixture of chemicals from the chemist.
+- **Main tasks:** Check the Crew Monitoring Console from time to time for dead/dying people.
+- **Main problems:** Medical jobs are a common choice for new players seeking a relevant role. So when not absent, dead, or traitorous, expect your staff to need constant babysitting and guidance on how to perform even basic treatments.
+
+## Quartermaster
+![generic_qm.webp](/jobs/generic_qm.webp =100x){.align-left .noblur}
+
+Authority over the supply sector, including Cargo Technicians and Shaft Miners.
+
+<br>
+<br>
+<br>
+
+- **Required knowledge:** Managing Cargo Tech's, how to operate the Cargo Bay.
+- **Round-start to-do list:** Check how many Cargo Tech's are on shift, get them doing something useful such as collecting crates.
+- **Main tasks:** Processing crew order requests.
+- **Main problems:** Hostile and impatient crew members, syndicate sympathizers, miners not appreciating you taking some plasma for points, inept cargo techs, miners dying in the first five minutes, lava land lizards, and Security. Depending on your loyalty to the station you will either face problems from Security or revolutionary's/ cultists/ the grey-tide. People telling you that you're not a "real head", and it hurts because they're right.
 
 
 
