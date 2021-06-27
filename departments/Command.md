@@ -2,7 +2,7 @@
 title: Command
 description: 
 published: 1
-date: 2021-06-27T21:18:31.980Z
+date: 2021-06-27T21:47:39.414Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-27T18:34:14.944Z
@@ -19,7 +19,7 @@ Command is comprised of the following roles.
 - Research Director
 - Chief Medical Officer
 
-## Captain
+## [Captain](/departments/Command/Captain)
 ![generic_captain.webp](/jobs/generic_captain.webp =100x){.align-left .noblur}
 
 The Commanding Officer with authority over the entire station. Eventually dies and has the Head of Personnel take over. Limited only by style - Just don't forget the disk. The only position that can issue death warrants without a trial.
