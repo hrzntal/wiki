@@ -2,7 +2,7 @@
 title: Command
 description: 
 published: 1
-date: 2021-06-27T21:15:37.405Z
+date: 2021-06-27T21:18:31.980Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-27T18:34:14.944Z
@@ -36,13 +36,13 @@ The Commanding Officer with authority over the entire station. Eventually dies a
 ## Head of Personnel
 ![generic_hop.webp](/jobs/generic_hop.webp =100x){.align-left .noblur}
 
-Equal rank with all other non-captain Heads of Staff. Becomes acting Captain if the original Captain is dead or MIA. Responsible for staffing and HR-related duties. Authority over all civil and supply departments, including the Janitor, Chef, Barman, Clown, Mime, Assistants, Quartermaster, Shaft Miners, Lawyers, Chaplain, Curator, Botanists and Cargo Techs.
+Equal rank with all other non-captain Heads of Staff. Becomes acting Captain if the original Captain is dead or MIA. Responsible for staffing and HR-related duties. Authority over all civil department, including the Janitor, Chef, Barman, Clown, Mime, Assistants, Lawyers, Chaplain, Curator, and Botanists.
 
 The Head of Personnel can either be a Godsend or worse than a banana-flinging clown for the station. He can also savor the prestige or feel shackled to the ID computer. If you find yourself wearing teal, make the most of it by doing your job correctly.
 
 <br>
 
-- **Required knowledge:** How to use the Identification Console. A rough idea of how access is distributed throughout the station. What Cargo, Kitchen, Hydroponics and the Janitor should be doing.
+- **Required knowledge:** How to use the Identification Console. A rough idea of how access is distributed throughout the station. What  Kitchen, Hydroponics and the Janitor should be doing.
 - **Round-start to-do list:** Stay at your desk for at least the first 10 minutes to manage the shift-start rush.
 - **Main tasks:** Manage IDs.
 - **Main problems:** Your department (the civil department) doesn't ever acknowledge you as their boss. It's your duty to make that a thing of the past!
@@ -109,7 +109,7 @@ Authority over the supply sector, including Cargo Technicians and Shaft Miners.
 - **Required knowledge:** Managing Cargo Tech's, how to operate the Cargo Bay.
 - **Round-start to-do list:** Check how many Cargo Tech's are on shift, get them doing something useful such as collecting crates.
 - **Main tasks:** Processing crew order requests.
-- **Main problems:** Hostile and impatient crew members, syndicate sympathizers, miners not appreciating you taking some plasma for points, inept cargo techs, miners dying in the first five minutes, lava land lizards, and Security. Depending on your loyalty to the station you will either face problems from Security or revolutionary's/ cultists/ the grey-tide. People telling you that you're not a "real head", and it hurts because they're right.
+- **Main problems:** Hostile and impatient crew members, syndicate sympathizers, miners not appreciating you taking some plasma for points, inept cargo techs, miners dying in the first five minutes, lava land lizards, and Security. Depending on your loyalty to the station you will either face problems from Security or revolutionary's/ cultists/ the grey-tide.
 
 
 
