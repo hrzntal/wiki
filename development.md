@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: 0
-date: 2021-07-01T20:14:05.324Z
+date: 2021-07-01T20:39:47.683Z
 tags: coding, development, dreammaker, git, programming
 editor: markdown
 dateCreated: 2021-06-29T17:01:09.926Z
@@ -14,7 +14,11 @@ dateCreated: 2021-06-29T17:01:09.926Z
 
 This page will guide you through getting set up with tools and the necessary basic knowledge to partake in the development of our codebase.
 It is aimed at complete beginners.
-If you have some experience with git and/or programming in general, and don't need too much handholding, a more advanced guide is available here.
+
+> The terminal/commandline doesn't scare you?
+> Click here to go to the quick startup guide!
+{.is-info}
+
 
 ## First steps
 
@@ -59,5 +63,7 @@ So.. what do we actually need?
 | PaintDotNet | Optional | Creating/Editing sprites/icons | https://www.getpaint.net/ |
 | Audacity | Optional | Creating/Editing sounds | https://www.audacityteam.org/ |
 
-Please note that there might be programs better suited for some of these tasks, however some of those are either paid software, or harder to get. The ones listed here are 100% free and will work well enough.
+> Please note that there might be programs better suited for some of these tasks, however some of those are either paid software, or harder to get.
+> The ones listed here are 100% free and will work well enough.
+{.is-info}
 
