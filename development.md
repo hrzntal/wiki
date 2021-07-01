@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: 0
-date: 2021-07-01T20:12:09.946Z
+date: 2021-07-01T20:14:05.324Z
 tags: coding, development, dreammaker, git, programming
 editor: markdown
 dateCreated: 2021-06-29T17:01:09.926Z
@@ -51,8 +51,8 @@ So.. what do we actually need?
 
 | Tool | Required? | What Is It For? | Where To Get It? |
 | ---- | --------- | --------------- | ---------------- |
-| BYOND | Required | Compiling/Building and executing the code, playing the game | http://www.byond.com/download/ |
-| GitKraken | Required | Downloading and updating your local copy of the repository | https://www.gitkraken.com/ |
+| BYOND | Required | - Compiling/Building and executing the code<br/> - Playing the game | http://www.byond.com/download/ |
+| GitKraken | Required | - Downloading and updating your local copy of the repository<br/> - Uploading updates to us | https://www.gitkraken.com/ |
 | Visual Studio Code | Required | Editing the code, also has support features for building, debugging, testing and more | https://code.visualstudio.com/ |
 | VSCode Extensions | Recommended | Enabling the aforementioned features | \<TODO: add sublink\> |
 | StrongDMM | Optional | Creating/Editing/Viewing Maps (Mapping) | https://github.com/SpaiR/StrongDMM#how-to-use |
