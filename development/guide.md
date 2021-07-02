@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: 0
-date: 2021-07-02T03:31:45.093Z
+date: 2021-07-02T03:34:31.339Z
 tags: coding, development, dreammaker, git, programming
 editor: markdown
 dateCreated: 2021-06-29T17:01:09.926Z
@@ -60,7 +60,7 @@ So.. what do we actually need?
 | Visual Studio Code | Required | Editing the code, also has support features for building, debugging, testing and more | https://code.visualstudio.com/ |
 | VSCode Extensions | Recommended | Enabling the aforementioned features | \<TODO: add sublink\> |
 | StrongDMM | Optional | Creating/Editing/Viewing Maps (Mapping) | https://github.com/SpaiR/StrongDMM#how-to-use |
-| PaintDotNet | Optional | Creating/Editing sprites/icons | https://www.getpaint.net/ |
+| PaintDotNET | Optional | Creating/Editing sprites/icons | https://www.getpaint.net/ |
 | Audacity | Optional | Creating/Editing sounds | https://www.audacityteam.org/ |
 
 > Please note that there might be programs better suited for some of these tasks, however some of those are either paid software, or harder to get.
