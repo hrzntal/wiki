@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: 0
-date: 2021-07-02T03:10:12.340Z
+date: 2021-07-02T03:31:45.093Z
 tags: coding, development, dreammaker, git, programming
 editor: markdown
 dateCreated: 2021-06-29T17:01:09.926Z
@@ -15,8 +15,8 @@ dateCreated: 2021-06-29T17:01:09.926Z
 This page will guide you through getting set up with tools and the necessary basic knowledge to partake in the development of our codebase.
 It is aimed at complete beginners.
 
-> The terminal/commandline doesn't scare you?
-> Click here to go to the quick startup guide!
+> You feel comfortable with git and developing?
+> [Click here to go to the quick startup guide!](/development/quickstart)
 {.is-info}
 
 
