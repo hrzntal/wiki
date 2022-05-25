@@ -2,8 +2,8 @@
 title: Security Standard Operating Procedure
 description: 
 published: 0
-date: 2022-05-25T00:08:06.016Z
-tags: sop, security, standard operating procedure
+date: 2022-05-25T00:10:50.249Z
+tags: security, sop, standard operating procedure
 editor: markdown
 dateCreated: 2022-05-25T00:08:06.016Z
 ---
@@ -22,8 +22,10 @@ Keep in mind that mechanics should be the end-point of a conflict, as it will mo
 
 It goes without saying that synthetics are as much part of the crew as any organics on the station, and will be tried equally. Even the AI is subject to a pair of virtual cuffs.
 
+
 ## Processing Convicts
-  
+
+![sop_table_processing_convicts.png](/sop_table_processing_convicts.png)
 The above will be used as a reference point and quick guide for dealing with convicted crew.
 
 ### Severity
