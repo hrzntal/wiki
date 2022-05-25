@@ -2,7 +2,7 @@
 title: Departments
 description: 
 published: 1
-date: 2022-05-25T00:16:58.160Z
+date: 2022-05-25T00:18:23.036Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-27T18:38:16.989Z
@@ -21,7 +21,8 @@ This department is the leadership team for the station. Each department has a He
 All the Heads of the departments report to the Captain.
 
 
-## [Security](/departments/Security)
+## Security
+[Security Standard Operation Procedure](/departments/Security/Sop)
 
 ## [Engineering](/departments/Engineering) 
 
