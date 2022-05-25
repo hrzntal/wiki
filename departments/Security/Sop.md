@@ -2,7 +2,7 @@
 title: Security Standard Operating Procedure
 description: 
 published: 0
-date: 2022-05-25T20:48:59.840Z
+date: 2022-05-25T21:51:19.842Z
 tags: security, sop, standard operating procedure
 editor: markdown
 dateCreated: 2022-05-25T00:08:06.016Z
@@ -45,7 +45,7 @@ Green is the most basic sentence. This includes but is not limited to:
 - Flourishing Contraband (Details further on)
 - Trespassing into departments/low access areas
 - Sexual Harassment
-- Public nudity (If bits are showing - skimpy clothing is OK)
+- Public nudity (If bits are showing - skimpy clothing is OK. Nudist practicioners can request a Nudist License from the Head of Personnel or stand-in access manager.)
 
 Generally, anything that is very easy to fix, repair, confiscate, reverse, or heal up is considered a green offense. This is more of a slap on the wrist.
 
