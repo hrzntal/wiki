@@ -2,7 +2,7 @@
 title: Security Standard Operating Procedure
 description: 
 published: 0
-date: 2022-05-25T00:10:50.249Z
+date: 2022-05-25T20:48:59.840Z
 tags: security, sop, standard operating procedure
 editor: markdown
 dateCreated: 2022-05-25T00:08:06.016Z
@@ -45,6 +45,7 @@ Green is the most basic sentence. This includes but is not limited to:
 - Flourishing Contraband (Details further on)
 - Trespassing into departments/low access areas
 - Sexual Harassment
+- Public nudity (If bits are showing - skimpy clothing is OK)
 
 Generally, anything that is very easy to fix, repair, confiscate, reverse, or heal up is considered a green offense. This is more of a slap on the wrist.
 
@@ -68,7 +69,8 @@ Yellow offenders may be subject to demotion at their heads’ discretion.
 Red offenses are of the highest order, an individual who has proven to not only want to harm, but possibly kill one or more members of the station. Such actions include but are not limited to:
 
 - Murder, straight up.
-- Attempted grand sabotague or mass murder (planting a bomb, gassing multiple people)
+- Emagging/hacking a borg or Brainwashing a carbon
+- Attempted grand sabotage or mass-murder (planting a bomb, gassing multiple people)
 - Hostile takeover/attempted coup
 - Kidnapping someone against their will (Just looc if it’s kinky business)
 - Stealing massive amounts of resources (includes credits, the armory, a notable quantity of resources from the silo, etc)
