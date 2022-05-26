@@ -1,8 +1,8 @@
 ---
 title: Security Standard Operating Procedure
 description: 
-published: 0
-date: 2022-05-26T00:00:49.569Z
+published: 1
+date: 2022-05-26T00:01:28.753Z
 tags: security, sop, standard operating procedure
 editor: markdown
 dateCreated: 2022-05-25T00:08:06.016Z
