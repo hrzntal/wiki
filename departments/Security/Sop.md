@@ -2,7 +2,7 @@
 title: Security Standard Operating Procedure
 description: 
 published: 0
-date: 2022-05-25T21:51:19.842Z
+date: 2022-05-26T00:00:49.569Z
 tags: security, sop, standard operating procedure
 editor: markdown
 dateCreated: 2022-05-25T00:08:06.016Z
@@ -83,7 +83,8 @@ The lines between each code level are blurry to allow context to give way to a r
 ### Repeat Offenses
 
 Repeat offenses are handled in a short-and-sweet manner. If someone repeats an offense once, they are given the same sentence but 25% longer. If they do it a third/fourth time, elevate them to the next code level.
-Visible Contraband
+
+### Visible Contraband
 
 Visible contraband consists of if an individual was seen with an object in their possession. This does not include objects that you assume someone has because of meta knowledge (I.E. emags, chameleon gear, implants) though if they are using such gear, they are probably headed for a code-yellow or worse anyway.
 
