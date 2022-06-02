@@ -2,7 +2,7 @@
 title: Security Standard Operating Procedure
 description: 
 published: 1
-date: 2022-06-02T21:27:10.859Z
+date: 2022-06-02T21:29:20.487Z
 tags: security, sop, standard operating procedure
 editor: markdown
 dateCreated: 2022-05-25T00:08:06.016Z
@@ -174,7 +174,7 @@ This includes, but is not limited to:
 If the threat is successfully contained, and an alert is lowered, the contraband laws will be reinstated, and all departments are expected to hand over any weapon they had obtained for the purpose of fighting the threat (Within reason. Do give people time to actually fulfill this.)
 
 
-## Prisoners (Non-starting)
+## Prisoners (Assigned Role)
 
 ### Conduct
 Prisoners who sign up to that role are not antags by default. They're welcome to be shadey, be a bit hard to manage (within reason), and be otherwise what they are assigned as, a criminal, but they should not work to cause so much issue for security that it takes their attention away from the rest of the station. If a prisoner wants to stage an escape, they should ahelp for appropriate approval before doing so.
