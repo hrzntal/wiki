@@ -2,7 +2,7 @@
 title: Security Standard Operating Procedure
 description: 
 published: 1
-date: 2022-06-02T21:29:20.487Z
+date: 2022-06-02T21:52:31.570Z
 tags: security, sop, standard operating procedure
 editor: markdown
 dateCreated: 2022-05-25T00:08:06.016Z
@@ -186,7 +186,7 @@ In the event of an emergency, such as:
 - Inhospitable atmospherics
 - Other significant damage to perma
 
-Officers may escort prisoners to safer holdings until Perma is safe to enter in again. If it seems like there is no chance of that happening, officers may decide to either move prisoners to the labor camp, or to parol the prisoners for the time being.
+Officers may escort prisoners to safer holdings until Perma is safe to enter in again. If it seems like there is no chance of that happening, officers may decide to either move prisoners to the labor camp, or to parole the prisoners for the time being.
 
 On a code red, it is not unheard of to even give a prisoner a gun to help defend the station-- after all, failure to contain a code red threat could mean station wide destruction.
 
