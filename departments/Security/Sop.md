@@ -2,7 +2,7 @@
 title: Security Standard Operating Procedure
 description: 
 published: 1
-date: 2022-05-26T00:01:28.753Z
+date: 2022-06-02T21:26:20.583Z
 tags: security, sop, standard operating procedure
 editor: markdown
 dateCreated: 2022-05-25T00:08:06.016Z
@@ -124,6 +124,8 @@ Anything that can be returned to its proper department, or owner, should be at e
 
 ### Base Sentencing
 
+Remember that it is not only the Warden's job to process criminals. They uphold the brig, but officers have the power to assign sentences to convicted criminals, and escort them to and from perma.
+
 #### Green
 Sentencing a green convict should be as seamless of a process as possible, as it isn’t meant to keep anyone anywhere longer than they need to be. It’s meant to be more of a formality, to punish someone for doing something wrong as an IC consequence. Typical green code base sentencings are:
 
@@ -158,7 +160,7 @@ Sentencing a valid, red convict is the most complex out of the three, but arises
 A red convict can choose between and has a right to any of these options, so long as they are available to be done.
 
 
-### Non-Crew Station Threats
+## Non-Crew Station Threats
 
 More than likely, when a station is experiencing a station-wide, Non-Crew threat, the station will go into a red/delta alert. A red/delta alert is an admission that a security team can no longer handle a threat at hand, as they are more of a police force than a military. When this happens, all crew members are encouraged and allowed to get involved, taking up their own department’s tools in an all-out fight to save the station. When this happens, contraband and rubbernecking laws are lifted for the time being, and with the coordination of the security team, all crew must work together to fight the threat.
 
@@ -170,3 +172,27 @@ This includes, but is not limited to:
 - Space Dragons
 
 If the threat is successfully contained, and an alert is lowered, the contraband laws will be reinstated, and all departments are expected to hand over any weapon they had obtained for the purpose of fighting the threat (Within reason. Do give people time to actually fulfill this.)
+
+
+## Prisoners (Non-starting)
+
+### Conduct
+Prisoners who sign up to that role are not antags by default. They're welcome to be shadey, be a bit hard to manage (within reason), and be otherwise what they are assigned as, a criminal, but they should not work to cause so much issue for security that it takes their attention away from the rest of the station. If a prisoner wants to stage an escape, they should ahelp for appropriate approval before doing so.
+
+Likewise, officers should not abuse their prisoners. It will be repeated as many times as it needs to, but security is not immune to being tried, fired, or incarcerated for committing crimes. If you abuse the prisoners, you may find yourself without a job, or worse. That being said, feel free to fulfill reasonable requests for the prisoners, but also remember it is generally frowned upon to spend more time within perma then is necessary.
+
+In the event of an emergency, such as:
+- A meteor storm
+- Inhospitable atmospherics
+- Other significant damage to perma
+
+Officers may escort prisoners to safer holdings until Perma is safe to enter in again. If it seems like there is no chance of that happening, officers may decide to either move prisoners to the labor camp, or to parol the prisoners for the time being.
+
+On a code red, it is not unheard of to even give a prisoner a gun to help defend the station-- after all, failure to contain a code red threat could mean station wide destruction.
+
+### Parole
+Usually those who sign up to play as a prisoner do so because they want to have that slice-of-life type roleplay, but there are often times when prisoners are by themselves, or just generally not having that great of a time. Instead of them cryoing, they may ask an officer for parole.
+
+Giving parole to a prisoner is very much encouraged for officers to do if it seems they are not having enough to do, or people to talk to. The standard procedure is to escort a willing prisoner to the Head of Personnel to be assigned a job that is on the lower end of access. Janitor, cargo tech, service, and if they have an appropriate background, medical doctor or science researcher.
+The assigned department's head or standing head should give approval before this is done, and an officer may wish to keep watch over the prisoner if they so choose, but is not 100% necessary if the prisoner is particularly well behaved.
+
