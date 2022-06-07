@@ -2,7 +2,7 @@
 title: Security Standard Operating Procedure
 description: 
 published: 1
-date: 2022-06-02T21:52:31.570Z
+date: 2022-06-07T08:31:42.892Z
 tags: security, sop, standard operating procedure
 editor: markdown
 dateCreated: 2022-05-25T00:08:06.016Z
@@ -196,3 +196,9 @@ Usually those who sign up to play as a prisoner do so because they want to have 
 Giving parole to a prisoner is very much encouraged for officers to do if it seems they are not having enough to do, or people to talk to. The standard procedure is to escort a willing prisoner to the Head of Personnel to be assigned a job that is on the lower end of access. Janitor, cargo tech, service, and if they have an appropriate background, medical doctor or science researcher.
 The assigned department's head or standing head should give approval before this is done, and an officer may wish to keep watch over the prisoner if they so choose, but is not 100% necessary if the prisoner is particularly well behaved.
 
+
+## Going Off Station
+
+There comes a time where officers may be presented with an option to wander off station, be it to explore or to patrol the space around the station itself. This is totally acceptable! But first, you need to make sure of a few things first. One, that there's no immediate, known threat on the station that needs your attention, and two, that you have permission from your HoS or Higher Command to step off station to do so.
+
+Accompanying a crew bought shuttle is just another way to fulfil your job's number one priority: Keep the crew safe at all costs. Do take note that this is not a license for a security officer to suddenly start doing a miner's job. Please leave that to their role unless they specifically request help.
